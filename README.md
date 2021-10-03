@@ -11,4 +11,4 @@
  - requests
  - BeautifulSoup
  - API Яндекс.Карт
- - PowerPoint для создания презентации
+ - PowerPoint для создания презентаций
