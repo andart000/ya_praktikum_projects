@@ -11,3 +11,6 @@
  - Pandas
  - Matplotlib
  - Seaborn
+ - Python
+ - предобработка данных
+ - продуктовые метрики
