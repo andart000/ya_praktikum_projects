@@ -13,6 +13,8 @@
  - Pandas
  - Matplotlib
  - Seaborn
+ - Python
+ - предобработка данных
  - requests
  - BeautifulSoup
  - API Яндекс.Карт
